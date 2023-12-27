@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.13" height="26.627" viewBox="0 0 21.13 26.627">
+  <g id="Group_8485" data-name="Group 8485" transform="translate(-612.997 -128)">
+    <line id="Line_45" data-name="Line 45" transform="translate(623 139.499)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Path_18821" data-name="Path 18821" transform="matrix(0.616, -0.788, 0.788, 0.616, 623.698, 134.401)">
+      <path id="Path_18986" data-name="Path 18986" d="M5.819,3.953,1.348,3.341,3.828,1.4Z" fill="#e4c8c8"/>
+      <path id="Path_18987" data-name="Path 18987" d="M4,0,8.123,5.278-1.134,4.011Z"/>
+    </g>
+    <path id="Path_18820" data-name="Path 18820" d="M7.5,0c4.142,0,5.25,4.668,5.083,7.918" transform="translate(620.525 134.096)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Path_18822" data-name="Path 18822" d="M0,0V2" transform="matrix(0.883, 0.469, -0.469, 0.883, 632.464, 144.597)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_47" data-name="Line 47" y2="2" transform="translate(629.238 148.657) rotate(61.001)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Path_18821-2" data-name="Path 18821" transform="matrix(-0.616, 0.788, -0.788, -0.616, 624.124, 147.332)">
+      <path id="Path_18988" data-name="Path 18988" d="M6.953,3.953,2.481,3.341,4.961,1.4Z" fill="#e4c8c8"/>
+      <path id="Path_18989" data-name="Path 18989" d="M5.134,0,9.257,5.278,0,4.011Z"/>
+    </g>
+    <path id="Path_18820-2" data-name="Path 18820" d="M12.6,7.918C8.457,7.918,7.349,3.25,7.516,0" transform="translate(606.5 140.613)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Path_18822-2" data-name="Path 18822" d="M0,0V2" transform="matrix(-0.883, -0.469, 0.469, -0.883, 614.66, 138.03)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_47-2" data-name="Line 47" y2="2" transform="translate(617.886 133.97) rotate(-118.999)" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="0 0 22 20">
+  <g id="Group_8494" data-name="Group 8494" transform="translate(-821 -135)">
+    <path id="Path_18831" data-name="Path 18831" d="M8,4v8a4,4,0,1,1-8,0V0" transform="translate(824 138)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Path_18832" data-name="Path 18832" d="M8,16V4A4,4,0,1,0,0,4V6.391" transform="translate(832 136)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Polygon_24" data-name="Polygon 24" transform="translate(821 135)">
+      <path id="Path_18998" data-name="Path 18998" d="M4.234,4H1.766L3,1.944Z"/>
+      <path id="Path_18999" data-name="Path 18999" d="M3,0,6,5H0Z"/>
+    </g>
+    <g id="Polygon_25" data-name="Polygon 25" transform="translate(843 154) rotate(180)">
+      <path id="Path_19000" data-name="Path 19000" d="M4.234,4H1.766L3,1.944Z"/>
+      <path id="Path_19001" data-name="Path 19001" d="M3,0,6,5H0Z"/>
+    </g>
+  </g>
+</svg>

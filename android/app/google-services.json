@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "675431275361",
+    "project_id": "nowcast-b7e2d",
+    "storage_bucket": "nowcast-b7e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675431275361:android:12e84b7601fe226d524320",
+        "android_client_info": {
+          "package_name": "com.nowcast.devapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675431275361-secio5psite0ubjan4sdj2nkkn51jevu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGtqCNioE4s1GmcidFvEtBf1D4jmR0Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675431275361-secio5psite0ubjan4sdj2nkkn51jevu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675431275361-1psvo69b89uomo07dlu4a3gdi0phrnmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nowcast.devapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675431275361:android:cebf969bad90d263524320",
+        "android_client_info": {
+          "package_name": "com.nowcast.theharvestcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675431275361-secio5psite0ubjan4sdj2nkkn51jevu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGtqCNioE4s1GmcidFvEtBf1D4jmR0Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675431275361-secio5psite0ubjan4sdj2nkkn51jevu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675431275361-1psvo69b89uomo07dlu4a3gdi0phrnmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nowcast.devapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

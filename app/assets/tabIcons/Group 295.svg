@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.414" height="16" viewBox="0 0 16.414 16">
+  <g id="Group_295" data-name="Group 295" transform="translate(-452.293 -80)">
+    <g id="Group_293" data-name="Group 293">
+      <g id="Path_1100" data-name="Path 1100" transform="translate(455.759 80)">
+        <path id="Path_18936" data-name="Path 18936" d="M3.966,7.828H1.71l2.256-4.01Z"/>
+        <path id="Path_18937" data-name="Path 18937" d="M4.966,0V8.828H0Z"/>
+      </g>
+      <g id="Path_1101" data-name="Path 1101" transform="translate(460.172 87.172)">
+        <path id="Path_18938" data-name="Path 18938" d="M.5,6.919V.5H4.111Z"/>
+        <path id="Path_18939" data-name="Path 18939" d="M1,5.01,3.256,1H1V5.01M0,8.828V0H4.966Z"/>
+      </g>
+    </g>
+    <line id="Line_8" data-name="Line 8" x1="2" y2="2" transform="translate(466 81)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_10" data-name="Line 10" x1="2" y1="2" transform="translate(453 81)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_9" data-name="Line 9" x1="2" y2="2" transform="translate(453 93)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_11" data-name="Line 11" x1="2" y1="2" transform="translate(466 93)" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>

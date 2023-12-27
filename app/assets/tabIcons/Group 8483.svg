@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.713" height="21.659" viewBox="0 0 19.713 21.659">
+  <g id="Group_8483" data-name="Group 8483" transform="translate(1.339 1.334)">
+    <path id="Path_18818" data-name="Path 18818" d="M4.016,15.6a7.8,7.8,0,1,0,0-15.6A7.99,7.99,0,0,0,0,1.112" transform="translate(10.621 19.203) rotate(-154.024)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Polygon_18" data-name="Polygon 18" transform="translate(17.784 2.177) rotate(123.007)">
+      <path id="Path_18982" data-name="Path 18982" d="M4.4,2.932H2.131L3.268,1.565Z"/>
+      <path id="Path_18983" data-name="Path 18983" d="M3.268,0,6.535,3.932H0Z"/>
+    </g>
+    <line id="Line_37" data-name="Line 37" y1="1.642" transform="matrix(-0.94, 0.342, -0.342, -0.94, 14.407, 18.182)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_38" data-name="Line 38" y1="1.642" transform="matrix(-0.53, 0.848, -0.848, -0.53, 17.286, 15.432)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_39" data-name="Line 39" y1="1.642" transform="translate(18.357 11.698) rotate(89.026)" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>

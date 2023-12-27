@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.222" height="18" viewBox="0 0 26.222 18">
+  <g id="Group_8533" data-name="Group 8533" transform="translate(-828.937 -185)">
+    <path id="Path_18865" data-name="Path 18865" d="M1050,168l2.156-5.089a1.508,1.508,0,0,1,.386-.567,2.073,2.073,0,0,1,.675-.344h13.417a1.131,1.131,0,0,1,.464.152,1.242,1.242,0,0,1,.338.373l2.9,5.475Z" transform="translate(-218 24)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Path_18866" data-name="Path 18866" d="M.006-1.965H7.047L6.982,19.5h-7" transform="translate(851.004 192.953) rotate(90)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Rectangle_4260" data-name="Rectangle 4260" transform="translate(830.5 200)">
+      <path id="Path_19040" data-name="Path 19040" d="M0,0H4V3H2A2,2,0,0,1,0,1Z"/>
+      <rect id="Rectangle_4274" data-name="Rectangle 4274" width="2" height="1" rx="0.5" transform="translate(1 1)" fill="none" stroke="#000" stroke-width="2"/>
+    </g>
+    <g id="Rectangle_4261" data-name="Rectangle 4261" transform="translate(849.99 200)">
+      <path id="Path_19041" data-name="Path 19041" d="M0,0H4V1A2,2,0,0,1,2,3H0Z"/>
+      <rect id="Rectangle_4275" data-name="Rectangle 4275" width="2" height="1" rx="0.5" transform="translate(1 1)" fill="none" stroke="#000" stroke-width="2"/>
+    </g>
+    <g id="Ellipse_59" data-name="Ellipse 59" transform="translate(835 194)" stroke="#000" stroke-width="2">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <g id="Ellipse_60" data-name="Ellipse 60" transform="translate(846 194)" stroke="#000" stroke-width="2">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+    <line id="Line_77" data-name="Line 77" x2="1" y2="3" transform="matrix(0.799, -0.602, 0.602, 0.799, 829.885, 190.067)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_78" data-name="Line 78" x2="1" y2="3" transform="matrix(0.326, 0.946, -0.946, 0.326, 854.224, 190.078)" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+</svg>

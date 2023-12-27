@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="19.858" viewBox="0 0 20 19.858">
+  <g id="Group_8519" data-name="Group 8519" transform="translate(-434 -176.155)">
+    <g id="Rectangle_4258" data-name="Rectangle 4258" transform="translate(434 186)" fill="none" stroke="#000" stroke-width="2">
+      <rect width="8" height="10" stroke="none"/>
+      <rect x="1" y="1" width="6" height="8" fill="none"/>
+    </g>
+    <line id="Line_66" data-name="Line 66" x2="5" transform="translate(435.5 191.5)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_68" data-name="Line 68" x2="5" transform="translate(442 183.5)" fill="none" stroke="#000" stroke-width="1.5"/>
+    <line id="Line_70" data-name="Line 70" y2="4" transform="translate(448 176.5)" fill="none" stroke="#000" stroke-width="1.5"/>
+    <line id="Line_71" data-name="Line 71" y2="3" transform="translate(445.643 176.6)" fill="none" stroke="#000" stroke-width="1.5"/>
+    <line id="Line_74" data-name="Line 74" y2="3" transform="translate(444.5 192)" fill="none" stroke="#000" stroke-width="1.5"/>
+    <line id="Line_69" data-name="Line 69" x2="3" transform="translate(444 186)" fill="none" stroke="#000" stroke-width="1.5"/>
+    <line id="Line_72" data-name="Line 72" x2="3" transform="translate(450 187)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_73" data-name="Line 73" x2="3" transform="translate(450 191)" fill="none" stroke="#000" stroke-width="2"/>
+    <line id="Line_67" data-name="Line 67" y2="3" transform="translate(437 184)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Path_18848" data-name="Path 18848" d="M0,0H8.4L5.015,9H-9.8" transform="translate(440 186) rotate(-90)" fill="none" stroke="#000" stroke-width="2"/>
+    <path id="Path_18849" data-name="Path 18849" d="M0,0H4V11.313H-14.875" transform="translate(449 183.7)" fill="none" stroke="#000" stroke-width="2"/>
+    <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(443 190)" fill="#fff" stroke="#000" stroke-width="2">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="0.5" fill="none"/>
+    </g>
+  </g>
+</svg>

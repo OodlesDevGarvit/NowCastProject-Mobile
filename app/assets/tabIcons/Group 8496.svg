@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="19.5" viewBox="0 0 24 19.5">
+  <g id="Group_8496" data-name="Group 8496" transform="translate(-856 -132.5)">
+    <g id="Rectangle_4252" data-name="Rectangle 4252" transform="translate(856 136)" fill="none" stroke="#000" stroke-width="2">
+      <rect width="24" height="16" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="22" height="14" rx="2" fill="none"/>
+    </g>
+    <g id="Polygon_27" data-name="Polygon 27" transform="translate(871.5 140.5) rotate(90)">
+      <path id="Path_19004" data-name="Path 19004" d="M5.079,4H1.921L3.5,1.744Z" fill="#fff"/>
+      <path id="Path_19005" data-name="Path 19005" d="M3.5.372a.5.5,0,0,1,.41.213l2.54,3.628A.5.5,0,0,1,6.04,5H.96a.5.5,0,0,1-.41-.787L3.09.585A.5.5,0,0,1,3.5.372Z"/>
+    </g>
+    <g id="Rectangle_4253" data-name="Rectangle 4253" transform="translate(860 133)">
+      <path id="Path_19006" data-name="Path 19006" d="M2,0H14a2,2,0,0,1,2,2H0A2,2,0,0,1,2,0Z"/>
+      <path id="Path_19007" data-name="Path 19007" d="M1.333.5H14.667a.833.833,0,0,1,.833.833h0a.167.167,0,0,1-.167.167H.667A.167.167,0,0,1,.5,1.333h0A.833.833,0,0,1,1.333.5Z" fill="none" stroke="#000" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
